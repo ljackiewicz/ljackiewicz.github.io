@@ -185,7 +185,8 @@
     list-style: none;
 
     .post-preview {
-      margin-bottom: $spacing-unit;
+      margin-bottom: $spacing-unit / 2;
+      border-bottom: 1px solid $border-color;
     }
   }
 
